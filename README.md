@@ -41,8 +41,8 @@ Here are some of my favorite builds:
 
 ## 📊 GitHub Stats
 
-![Tife's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Tife's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yommexg&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yommexg&layout=compact&theme=radical)
 
 ---
 
