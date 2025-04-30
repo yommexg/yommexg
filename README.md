@@ -17,7 +17,7 @@ Here are some of my favorite builds:
 
 - 🧾 **[Owomonie](https://github.com/Owomonie)** – Full-stack finance tracker with Plaid API  
 - 🚘 **[11GAutos](https://github.com/yommexg/11GAutos)** – Car dealership platform with live tracking and WhatsApp integration  
-- 🚘 **[11GAutos](https://github.com/yommexg/Shiona-music)** – Music application built with React Native  
+- 🚘 **[ShionaMusic](https://github.com/yommexg/Shiona-music)** – Music application built with React Native  
 - 💬 **[Bolugram](https://github.com/yommexg/bolugram)** – Real-time chat app built with React Native and Firebase  
 - 🍔 **[Yommex-Foods](https://github.com/yommexg/yommex-foods)** – Food delivery app with Redux and Stripe  
 - 🧱 **[RealEstateNFT](https://github.com/yommexg/realestatenft)** – Blockchain-based property marketplace  
