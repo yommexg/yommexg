@@ -22,13 +22,6 @@ Here are some of my favorite builds:
 - 🍔 **[Yommex-Foods](https://github.com/yommexg/yommex-foods)** – Food delivery app with Redux and Stripe  
 - 🧱 **[RealEstateNFT](https://github.com/yommexg/realestatenft)** – Blockchain-based property marketplace  
 
----
-
-## 🛠️ Currently Working On
-
-- A cloud-based CRM system using **React + Redux + MUI**  
-- Enhancing my blockchain knowledge through dApps and DeFi projects  
-- Contributing to open-source projects and mentoring new devs
 
 ---
 
