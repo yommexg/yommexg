@@ -2,93 +2,56 @@
 
 I'm a passionate **Full-Stack Developer** with over **6 years of experience** building scalable, user-friendly web and mobile applications. My work spans across **fintech, healthcare, education, e-commerce**, and **blockchain**, and I'm always exploring new tech to create impactful digital solutions.
 
+
 ## Tech Stack
 
-**Frontend & UI:**
-- Bootstrap
-- Chakra UI
-- CSS3
-- Expo
-- Figma
-- Framer Motion
-- HTML5
-- JavaScript (ES6+)
-- Material UI
-- Next.js
-- React.js
-- React Native
-- SCSS
-- Svelte
-- Tailwind CSS
-- TypeScript
+| **Frontend & UI**       | **State Mgmt & Testing**   | **Backend & APIs**                 |
+|-------------------------|----------------------------|------------------------------------|
+| Bootstrap               | Cypress                    | AWS                                |
+| Chakra UI              | Jest                       | Cloudinary                         |
+| CSS3                   | Playwright                 | Docker, Docker Swarm, Kubernetes   |
+| Expo                   | React Query                | Express.js                         |
+| Figma                  | Redux                      | Firebase                           |
+| Framer Motion          | Zustand                    | Firebase Hosting                   |
+| HTML5                  | Storybook                  | Git                                |
+| JavaScript (ES6+)      | Vitest                     | GitHub                             |
+| Material UI            |                            | GitHub Actions                     |
+| Next.js                |                            | GitLab                             |
+| React.js               |                            | GitLab CI                          |
+| React Native           |                            | GraphQL                            |
+| SCSS                   |                            | Heroku                             |
+| Svelte                 |                            | Lambda                             |
+| Tailwind CSS           |                            | MongoDB                            |
+| TypeScript             |                            | MySQL                              |
+|                         |                            | Netlify                            |
+|                         |                            | Node.js                            |
+|                         |                            | Nginx                              |
+|                         |                            | PostgreSQL                         |
+|                         |                            | Prisma                             |
+|                         |                            | REST APIs                          |
+|                         |                            | RDS                                |
+|                         |                            | S3 Buckets                         |
+|                         |                            | Supabase                           |
 
-**State Management & Testing:**
-- Cypress
-- Jest
-- Playwright
-- React Query
-- Redux
-- Zustand
-- Storybook
-- Vitest
+---
 
-**Backend & APIs:**
-- AWS
-- Cloudinary
-- Docker, Docker swarm and Kurbanates
-- Express.js
-- Firebase
-- Firebase Hosting
-- Git
-- GitHub
-- GitHub Actions
-- GitLab
-- GitLab CI
-- GraphQL
-- Heroku
-- Lambda
-- MongoDB
-- MySQL
-- Netlify
-- Node.js
-- Nginx
-- PostgreSQL
-- Prisma
-- REST APIs
-- RDS
-- S3 Buckets
-- Supabase
+| **Web3 & Blockchain** | **Payments & Fintech**   | **Collaboration & Dev Tools**  |
+|------------------------|---------------------------|--------------------------------|
+| Alchemy                | Coinbase Commerce         | Notion                         |
+| Chai                   | Flutterwave               | Postman                        |
+| Ethers.js              | PayPal                    | Pusher                         |
+| Ethereum               | Paystack                  | Socket.IO                      |
+| Hardhat                | Plaid                     | Trello                         |
+| Infura                 | Stripe                    |                                |
+| IPFS                   |                           |                                |
+| MetaMask               |                           |                                |
+| Moralis                |                           |                                |
+| Smart Contracts        |                           |                                |
+| Solidity               |                           |                                |
+| The Graph              |                           |                                |
+| Truffle                |                           |                                |
+| Web3.js                |                           |                                |
 
-**Web3 & Blockchain:**
-- Alchemy
-- Chai
-- Ethers.js
-- Ethereum
-- Hardhat
-- Infura
-- IPFS
-- MetaMask
-- Moralis
-- Smart Contracts
-- Solidity
-- The Graph
-- Truffle
-- Web3.js
-
-**Payments & Fintech:**
-- Coinbase Commerce
-- Flutterwave
-- PayPal
-- Paystack
-- Plaid
-- Stripe
-
-**Collaboration & Dev Tools:**
-- Notion
-- Postman
-- Pusher
-- Socket.IO
-- Trello
 
 
 ## 🚀 Featured Projects
